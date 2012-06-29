@@ -1,3 +1,4 @@
+/* Klasa dodana do dowolnego elementu powoduje ukrycie objetej ta klasa informacji wizualne usuniecie
+ze strony. Jednoczesnie tresc nadal jest dostepna z poziomu czytnika ekranu lub po wylaczeniu CSS */
 .hide { position:absolute !important; clip:rect(1px 1px 1px 1px); clip:rect(1px,1px,1px,1px); 
         padding:0 !important; border:0 !important; height:1px !important; width:1px !important; overflow:hidden}
-        /*asdfasdfasdf */ 
