@@ -8,18 +8,17 @@
 	"buffers":
 	[
 		{
-			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 506,
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "CSS/ukrywanie_techniki.css",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 763,
+				"buffer_size": 1031,
 				"line_ending": "Windows"
 			}
 		}
@@ -64,6 +63,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Dominik/Documents/GitHub/Dostepnosc/CSS/ukrywanie_techniki.css",
+		"/C/Users/Dominik/Documents/GitHub/Dostepnosc/README.md",
 		"/D/www_serwer/www/globalnepoludnie/globalne/head.inc.html",
 		"/D/www_serwer/www/globalnepoludnie/globalne/rubrique-start.html",
 		"/D/www_serwer/www/globalnepoludnie/globalne/rubrique-default.html",
@@ -135,23 +136,23 @@
 			[
 				{
 					"buffer": 0,
-					"file": "README.md",
 					"settings":
 					{
-						"buffer_size": 506,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								453,
-								453
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"default_dir": "C:\\Users\\Dominik\\Documents\\GitHub\\Dostepnosc",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -161,26 +162,26 @@
 				},
 				{
 					"buffer": 1,
-					"file": "CSS/ukrywanie_techniki.css",
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 763,
+						"buffer_size": 1031,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								675,
-								675
+								727,
+								727
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 72.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
