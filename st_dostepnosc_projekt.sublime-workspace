@@ -8,19 +8,11 @@
 	"buffers":
 	[
 		{
-			"file": "README.md",
+			"file": "/D/www_dev_arch/integracja/style.css",
 			"settings":
 			{
-				"buffer_size": 506,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "CSS/ukrywanie_techniki.css",
-			"settings":
-			{
-				"buffer_size": 763,
-				"line_ending": "Windows"
+				"buffer_size": 24549,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -64,6 +56,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Dominik/Documents/GitHub/Dostepnosc/README.md",
+		"/C/Users/Dominik/Documents/GitHub/Dostepnosc/CSS/ukrywanie_techniki.css",
 		"/D/www_serwer/www/globalnepoludnie/globalne/head.inc.html",
 		"/D/www_serwer/www/globalnepoludnie/globalne/rubrique-start.html",
 		"/D/www_serwer/www/globalnepoludnie/globalne/rubrique-default.html",
@@ -103,6 +97,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"tools",
+			"main",
 			"hide",
 			"hei",
 			"main-menu",
@@ -130,49 +126,23 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "README.md",
+					"file": "/D/www_dev_arch/integracja/style.css",
 					"settings":
 					{
-						"buffer_size": 506,
+						"buffer_size": 24549,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								453,
-								453
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "CSS/ukrywanie_techniki.css",
-					"settings":
-					{
-						"buffer_size": 763,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								675,
-								675
+								3056,
+								3056
 							]
 						],
 						"settings":
@@ -180,7 +150,7 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1345.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
