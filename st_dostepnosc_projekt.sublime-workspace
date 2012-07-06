@@ -8,17 +8,10 @@
 	"buffers":
 	[
 		{
+			"file": "/D/Globalne/Rajd_film/notatki.txt",
 			"settings":
 			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 1031,
+				"buffer_size": 1129,
 				"line_ending": "Windows"
 			}
 		}
@@ -63,6 +56,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Dominik/Documents/GitHub/Dostepnosc/index.html",
+		"/D/Globalne/Rajd_film/notatki",
 		"/C/Users/Dominik/Documents/GitHub/Dostepnosc/.git/COMMIT_EDITMSG",
 		"/C/Users/Dominik/Documents/GitHub/Dostepnosc/CSS/ukrywanie_techniki.css",
 		"/C/Users/Dominik/Documents/GitHub/Dostepnosc/README.md",
@@ -132,57 +127,31 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "/D/Globalne/Rajd_film/notatki.txt",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1129,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1018,
+								1018
 							]
 						],
 						"settings":
 						{
-							"default_dir": "C:\\Users\\Dominik\\Documents\\GitHub\\Dostepnosc",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 1031,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								384,
-								384
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 72.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
