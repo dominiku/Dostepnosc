@@ -1,0 +1,7 @@
+/* fokus, nie do używania to */
+input:focus, a:focus, select:focus { outline: 3px solid #CD6A21; -webkit-transition: all .2s; }
+
+/* czyszczenie */
+.clearfix:before, .clearfix:after { content: ""; display: table; }
+.clearfix:after { clear: both; }
+.clearfix { *zoom: 1; }
